@@ -35,7 +35,7 @@ export default function Home() {
                         <PhoneIcon className="h-7 w-7 text-blue-500"/>
                     </a>
                     {/* Gmail Link */}
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suetpengwong@gmail.com" aria-label="Email" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:suetpengwong@gmail.com" aria-label="Email">
                         <EnvelopeIcon className="h-7 w-7 text-red-500"/>
                     </a>
                 </div>
