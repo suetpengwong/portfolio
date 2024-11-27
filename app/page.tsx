@@ -48,8 +48,9 @@ export default function Home() {
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen>
                 </iframe>
+                <b>YCH Group Advisory</b>
                 <p className='mt-4 text-center'>
-                    <b>YCH Group Advisory</b> 10-1, Jalan 6/18A Taman Mastiara, Batu 5, Jalan Ipoh 52100, KL
+                 10-1, Jalan 6/18A Taman Mastiara, Batu 5, Jalan Ipoh 52100, KL
                 </p>
                 <h2 className='mt-4'>Appointed Agencies</h2>
                 <div className='flex flex-row mt-4 w-full mx-auto justify-center '>
