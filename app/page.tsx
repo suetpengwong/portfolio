@@ -49,7 +49,7 @@ export default function Home() {
                     allowFullScreen>
                 </iframe>
                 <p className='mt-4 text-center'>
-                    10-1, Jalan 6/18A, Taman 5, Jalan Ipoh Batu 5, 51200 Kuala Lumpur, Malaysia
+                    <b>YCH Group Advisory</b> 10-1, Jalan 6/18A Taman Mastiara, Batu 5, Jalan Ipoh 52100, Kl
                 </p>
                 <h2 className='mt-4'>Appointed Agencies</h2>
                 <div className='flex flex-row mt-4 w-full mx-auto justify-center '>
