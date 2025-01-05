@@ -55,7 +55,7 @@ export default function Home() {
                 <h2 className='mt-4'>Appointed Agencies</h2>
                 <div className='flex flex-row mt-4 w-full mx-auto justify-center '>
 
-                    <Image src={Iff} alt='test'/>
+                    <Image src={Iff} className='transform scale-110' alt='test'/>
                 </div>
             </div>
         </div>
